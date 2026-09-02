@@ -1,0 +1,27 @@
+
+html{
+  background-color: black;
+}
+  #main{
+  font-family:"Regular Libre Baskerville";
+  color:white;
+  font-size:3rem;
+  text-transform:capitalize;
+}
+
+ #sub{
+   font-family: "Regular Libre Baskerville";
+   color:white;
+
+}
+
+img{
+  border: 5px solid white;
+  
+}
+
+div{
+  margin-top: 100px;
+  margin-left:5px;
+  text-align:center;
+}
