@@ -1,0 +1,80 @@
+.customized-bg{
+    height:512px;
+    width:auto;
+    background-color: black;
+}
+
+#pfp img{
+    border-radius:1000px;
+    max-width: 344px;
+    height: auto;
+}
+
+#text *{
+    font-family: Montserrat;
+    color:aliceblue
+}
+
+#text{
+    padding-top:100px;
+}
+
+#text h4{
+    font-weight:300;
+}
+
+.fullname{
+    font-family:Montserrat;
+    font-weight:500;
+}
+
+.description{
+    font-family:Montserrat;
+    font-weight:300;
+}
+
+#images{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+#images .figma{
+    width:80px;
+    height:auto;
+    border-radius:100px;
+    margin-left:200px;
+}
+
+#images .canva{
+    width:80px;
+    height:auto;
+    border-radius:100px;
+    margin-left:120px;
+   
+}
+
+#images .pin{
+    width:130px;
+    height:auto;
+    margin-left:15px;
+}
+
+#images .vsc{
+    width:80px;
+    height:auto;
+    border-radius:400px;
+    margin-left:-130px;
+}
+
+.skill1{
+    width:300px;
+    height:auto;
+    border-radius:8px;
+}
+
+.skill2{
+    width:305px;
+    height:290px;
+    border-radius:8px;
+}
